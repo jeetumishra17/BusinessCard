@@ -68,7 +68,7 @@ const CardPay = () => {
                     </div>
                     <div className="card-pay-item-body">
                         <div className="qr-details">
-                            <img src="./assets/upi_QR.png" alt="" />
+                            <img src="./assets/upi_Q.png" alt="" />
                             <div className="card-utility-button">
                                 <button className="btn btn-primary" onClick={downloadQR}><i class="fa-solid fa-download"></i>Download</button>
                             </div>
@@ -94,34 +94,34 @@ const CardPay = () => {
                             <table>
                             <thead>
                                 <tr>
-                                    <th colspan="3">Punjab National Bank</th>
+                                    <th colspan="3">XYZ bank</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <th>Account Holder</th>
                                     <td>:</td>
-                                    <td>Kedar Nath Roller Flour Mills Private Limited</td>
+                                    <td>ABC </td>
                                 </tr>
                                 <tr>
                                     <th>Account Number</th>
                                     <td>:</td>
-                                    <td>7531008700000748</td>
+                                    <td>999999999999999</td>
                                 </tr>
                                 <tr>
                                     <th>IFS Code</th>
                                     <td>:</td>
-                                    <td>PUNB0753100</td>
+                                    <td>XYZ5646464</td>
                                 </tr>
                                 <tr>
                                     <th>Branch</th>
                                     <td>:</td>
-                                    <td>Kachhauna Patseni, Hardoi</td>
+                                    <td>branch add</td>
                                 </tr>
                                 <tr>
                                     <th>Account Type</th>
                                     <td>:</td>
-                                    <td>Cash Credit</td>
+                                    <td>current</td>
                                 </tr>
                             </tbody>
                             </table>
